@@ -1,6 +1,6 @@
 # 🐦 Tweeter Project
 
-A web application designed to mimic core features of a social media platform like Twitter (X), built using the **Django framework**. This project allows users to post "tweets," follow other users, and interact with posts.
+A web application designed to mimic core features of a social media platform like Twitter (X), built using the **Django framework**. This project allows users to post "tweets" and interact with posts.
 
 ---
 
