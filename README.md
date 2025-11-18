@@ -25,3 +25,16 @@ A web application designed to mimic core features of a social media platform lik
 ---
 
 ## 📂 Project Structure
+
+```
+Tweeter_Project/
+│
+├── tweeter/              # Main Django project configuration (settings.py, urls.py, wsgi.py, asgi.py)
+├── tweet/                # Django app for core logic
+├── static/               # Static files (CSS, JS)
+├── templates/            # HTML templates
+├── media/                # Directory for user-uploaded content (e.g., profile pictures, images in tweets)
+├── db.sqlite3            # Default SQLite database
+├── manage.py             # Django's command-line utility for administrative tasks
+├── requirements.txt      # List of project dependencies (e.g., Django, pillow)
+```
