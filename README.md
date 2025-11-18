@@ -9,7 +9,6 @@ A web application designed to mimic core features of a social media platform lik
 * **User Authentication:** Secure sign-up, login, and logout functionality.
 * **Tweet Posting:** Users can create, view, and delete their own posts (tweets).
 * **User Profiles:** View individual user profiles with their bio and post history.
-* **Follow System:** Ability to follow and unfollow other users.
 * **Timeline/Feed:** Displays a stream of tweets from the users the current user is following.
 * **Dynamic Templates:** Utilizes Django's template engine for dynamic content rendering.
 
